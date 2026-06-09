@@ -58,9 +58,21 @@ Gestionar un camping con Excel y papel genera errores caros: dobles reservas, pa
 - **Pensado para equipos.** Roles y permisos por perfil.
 - **Privado por diseño.** No procesa pagos ni almacena documentos de identidad.
 
-## Capturas
+## Capturas reales
 
-> La página de demostración incluye una vista interactiva de la interfaz: **[svetoslav1999.github.io/acampa](https://svetoslav1999.github.io/acampa/)**
+> Pantallas reales de la aplicación funcionando con datos de ejemplo. Vista interactiva completa en **[svetoslav1999.github.io/acampa](https://svetoslav1999.github.io/acampa/)**
+
+### Panel de control
+![Panel de control de Acampa](assets/dashboard.png)
+
+### Reservas
+![Gestión de reservas](assets/reservas.png)
+
+### Parcelas
+![Catálogo de parcelas](assets/parcelas.png)
+
+### Informes
+![Informes de ocupación](assets/informes.png)
 
 ---
 
